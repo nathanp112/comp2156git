@@ -1,0 +1,20 @@
+{
+  "name": "comp2156git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: no test created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanp112/comp2156git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanp112/comp2156git/issues"
+  },
+  "homepage": "https://github.com/nathanp112/comp2156git#readme"
+}
