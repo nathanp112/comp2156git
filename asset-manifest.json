@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/comp2156git/static/css/main.27ca76a1.css",
+    "main.js": "/comp2156git/static/js/main.05f589a4.js",
+    "static/js/453.5fe30fe4.chunk.js": "/comp2156git/static/js/453.5fe30fe4.chunk.js",
+    "index.html": "/comp2156git/index.html",
+    "main.27ca76a1.css.map": "/comp2156git/static/css/main.27ca76a1.css.map",
+    "main.05f589a4.js.map": "/comp2156git/static/js/main.05f589a4.js.map",
+    "453.5fe30fe4.chunk.js.map": "/comp2156git/static/js/453.5fe30fe4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.05f589a4.js"
+  ]
+}
